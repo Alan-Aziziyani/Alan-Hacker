@@ -11,7 +11,8 @@
     "build": "echo 'No build needed'"
   },
   "dependencies": {
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "ws": "^8.0.0"  // این خط اضافه شده است
   },
   "author": "shiva yadav",
   "license": "ISC"
